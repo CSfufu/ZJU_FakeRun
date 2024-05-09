@@ -13,7 +13,7 @@ run_exe/
 ## Instructions
 - Equipment requirements
     - Windowsx64
-    - ios(ipad/iphone) & ios ≤ 16.0
+    - ios(ipad/iphone)
     - make sure have downloaded **zdty**
 - Running aplication
     - First click windowsdesktop-runtime-6.0.24-win-x64.exe
